@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
 
-  s.name         = "OptionsViewController"
+  s.name         = "SimpleOption"
   s.version      = "0.1"
-  s.summary      = "OptionsViewController is the UI that provides the option selection function for iOS."
+  s.summary      = "SimpleOption is the UI that provides the option selection function for iOS."
 
   s.description  = <<-DESC
-                   OptionsViewController is the UI that provides the option selection function for iOS. - OptionsViewController はiOS向けのオプション選択機能を提供するUIです。
+                   SimpleOption is the UI that provides the option selection function for iOS. - SimpleOption はiOS向けのオプション選択機能を提供するUIです。
                    DESC
 
   s.homepage     = "https://github.com/notoroid/SimpleOption"
